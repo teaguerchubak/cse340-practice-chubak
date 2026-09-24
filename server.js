@@ -1,4 +1,5 @@
-// start server with --- node server.js
+// start server with --- pnpm run start OR pnpm run dev
+// stop server with --- ctr c
 
 // Import express using ESM syntax
 import express from 'express';
